@@ -1,2 +1,3 @@
 # github.guide
-practice repository for tutorial
+practice repository for tutoria
+this is a practice repo. I don't know. 
